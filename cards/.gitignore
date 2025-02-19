@@ -1,0 +1,11 @@
+# Java and Spring Boot ignore file
+target/
+*.jar
+*.war
+*.class
+*.log
+*.DS_Store
+.env
+node_modules/
+.idea/
+.vscode/
